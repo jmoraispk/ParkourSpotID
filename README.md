@@ -1,5 +1,7 @@
 # ParkourSpotID
 
+If you're interested in creating a global database of parkour spots, I can help. Contact me at: joao@asu.edu
+
 Paper on ArXiv: https://arxiv.org/abs/2201.00377
 
 Video on YouTube: https://youtu.be/2R_fXGLIUWU
